@@ -1,0 +1,498 @@
+Avg Building Exp: 3.8, Avg Stamina: 6.6, Returning Members: 3
+Raymund
+Todd
+Fanni
+Teriann
+Derrol
+Avg Building Exp: 7.4, Avg Stamina: 5, Returning Members: 2
+Julee
+Jaleh
+Mordecai
+Laurice
+Clem
+Avg Building Exp: 4.8, Avg Stamina: 5.2, Returning Members: 3
+Ingrid
+Aharon
+Leela
+Joab
+Charmian
+Avg Building Exp: 5.4, Avg Stamina: 4.2, Returning Members: 0
+Keefe
+Corie
+Belle
+Doralia
+Krystal
+Avg Building Exp: 6.2, Avg Stamina: 4.8, Returning Members: 2
+Elisabet
+Othella
+Gabey
+Rickey
+Peter
+Avg Building Exp: 6, Avg Stamina: 1.8, Returning Members: 1
+Dolorita
+Maurita
+Karola
+Thorstein
+Koren
+Avg Building Exp: 2.8, Avg Stamina: 3.6, Returning Members: 2
+Shara
+Kissee
+Juliann
+Frances
+Donal
+Avg Building Exp: 5.8, Avg Stamina: 6.2, Returning Members: 3
+Mignon
+Brandice
+Roslyn
+Hollis
+Casper
+Avg Building Exp: 7.4, Avg Stamina: 7.6, Returning Members: 3
+Hunter
+Mame
+Spencer
+Taffy
+Leila
+Avg Building Exp: 9.6, Avg Stamina: 7.6, Returning Members: 4
+Leontine
+Zebulen
+Susan
+Giavani
+Brynna
+Avg Building Exp: 8.8, Avg Stamina: 8, Returning Members: 5
+Barthel
+Sylvie
+Israel
+Sullivan
+Halli
+Avg Building Exp: 8.6, Avg Stamina: 8.6, Returning Members: 1
+Paulo
+Fatima
+Elijah
+Desdemona
+Niccolo
+Avg Building Exp: 9.8, Avg Stamina: 8.4, Returning Members: 4
+Laurent
+Sonny
+Guglielma
+Jerrie
+Nisa
+Avg Building Exp: 9.2, Avg Stamina: 9.2, Returning Members: 4
+Olympie
+Ford
+Bard
+Fionna
+Quigman
+Avg Building Exp: 9.4, Avg Stamina: 9.2, Returning Members: 3
+Betsy
+Harrie
+Rosamund
+Pace
+Neel
+Avg Building Exp: 9, Avg Stamina: 8, Returning Members: 3
+Zippy
+Edyth
+Rosana
+Gwennie
+Burt
+Avg Building Exp: 8.4, Avg Stamina: 7.8, Returning Members: 2
+Marinna
+Sutherland
+Rozanne
+Cassi
+Theo
+Avg Building Exp: 9.6, Avg Stamina: 8.8, Returning Members: 1
+Fowler
+Amandi
+Sashenka
+Benetta
+Rockwell
+Avg Building Exp: 8.8, Avg Stamina: 7.2, Returning Members: 3
+Suzetta
+Sammie
+Leopold
+Batholomew
+Candra
+Avg Building Exp: 8.2, Avg Stamina: 7.8, Returning Members: 3
+Nari
+Oliver
+Duane
+Adah
+Cassaundra
+Avg Building Exp: 9.2, Avg Stamina: 8.2, Returning Members: 3
+Kalil
+Mella
+Miran
+Sophia
+Audrye
+Avg Building Exp: 9, Avg Stamina: 8.6, Returning Members: 3
+Selina
+Raoul
+Corissa
+Cherin
+Brigida
+Avg Building Exp: 8.6, Avg Stamina: 8.6, Returning Members: 1
+Trev
+Dori
+Garfinkel
+Loria
+Phillis
+Avg Building Exp: 8.4, Avg Stamina: 7.8, Returning Members: 3
+Larina
+Dolly
+Jameson
+Tiphany
+Amandie
+Avg Building Exp: 9, Avg Stamina: 8.4, Returning Members: 4
+Donetta
+Candy
+Mikey
+Greg
+Zorine
+Avg Building Exp: 9.2, Avg Stamina: 9, Returning Members: 3
+Glenna
+Hiram
+Morris
+Alis
+Jemima
+Avg Building Exp: 9.2, Avg Stamina: 8.4, Returning Members: 4
+Marion
+Jemimah
+Julissa
+Husain
+Melamie
+Avg Building Exp: 8.8, Avg Stamina: 7.6, Returning Members: 3
+Maddie
+Heida
+Alan
+Ally
+Ferne
+Avg Building Exp: 9.6, Avg Stamina: 8, Returning Members: 3
+Marlyn
+Suzann
+Penn
+Devondra
+Jerri
+Avg Building Exp: 9, Avg Stamina: 7.6, Returning Members: 2
+Jefferson
+Monroe
+Margurite
+Sherie
+Obadiah
+Avg Building Exp: 8.6, Avg Stamina: 8.4, Returning Members: 2
+Mandie
+Kettie
+Beauregard
+Lev
+Bertha
+Avg Building Exp: 9.2, Avg Stamina: 7.8, Returning Members: 2
+Angelle
+Frannie
+Isabel
+Marjorie
+Carroll
+Avg Building Exp: 9.2, Avg Stamina: 7.4, Returning Members: 3
+Parrnell
+Eimile
+Winnie
+Hedy
+Beverly
+Avg Building Exp: 9.6, Avg Stamina: 8.8, Returning Members: 3
+Niels
+Tallie
+Marlie
+Ludwig
+Nicolle
+Avg Building Exp: 8.4, Avg Stamina: 7.8, Returning Members: 3
+Jenny
+Er
+Kerstin
+Aubree
+Sherill
+Avg Building Exp: 9.2, Avg Stamina: 8.2, Returning Members: 1
+Venita
+Lusa
+Shalne
+Shem
+Raf
+Avg Building Exp: 8.8, Avg Stamina: 8.6, Returning Members: 3
+Ely
+Partha
+Irma
+Sibbie
+Jeanelle
+Avg Building Exp: 9.4, Avg Stamina: 8, Returning Members: 4
+Rosanne
+Peyton
+Annabela
+Em
+Nicki
+Avg Building Exp: 9.2, Avg Stamina: 9.2, Returning Members: 4
+Trudi
+Carolann
+Aridatha
+Laurella
+Anna-Diana
+Avg Building Exp: 9, Avg Stamina: 7.8, Returning Members: 1
+Blythe
+Gerta
+Brana
+Joni
+Yancy
+Avg Building Exp: 9, Avg Stamina: 9, Returning Members: 2
+Coral
+Newton
+Sara-Ann
+Cy
+Rachel
+Avg Building Exp: 9, Avg Stamina: 7.8, Returning Members: 2
+Nannette
+Rogers
+Pam
+Adora
+Elna
+Avg Building Exp: 8.8, Avg Stamina: 8.8, Returning Members: 2
+Joao
+Robin
+Monique
+Meredeth
+Elicia
+Avg Building Exp: 9.4, Avg Stamina: 8.8, Returning Members: 1
+Cissy
+Kelcey
+Morganne
+Kimball
+Tracey
+Avg Building Exp: 9.2, Avg Stamina: 8.8, Returning Members: 1
+Jamey
+Natalee
+Gerty
+Jerrome
+Francis
+Avg Building Exp: 9.2, Avg Stamina: 9, Returning Members: 4
+Sayres
+Ivie
+Thad
+Rana
+Beatriz
+Avg Building Exp: 9, Avg Stamina: 8.2, Returning Members: 2
+Mariya
+Tammie
+Marysa
+Kristian
+Sybille
+Avg Building Exp: 8.8, Avg Stamina: 9.2, Returning Members: 2
+Alameda
+Lyn
+Tommi
+Avram
+Briteny
+Avg Building Exp: 9.2, Avg Stamina: 8, Returning Members: 2
+Clemente
+Ninnette
+Friedrich
+Brunella
+Breanne
+Avg Building Exp: 9, Avg Stamina: 9.4, Returning Members: 2
+Darda
+Larissa
+Jorey
+Ephrem
+Audry
+Avg Building Exp: 9.4, Avg Stamina: 8.8, Returning Members: 2
+Carlene
+Justina
+Aileen
+Isidore
+Roseann
+Avg Building Exp: 9.2, Avg Stamina: 8.4, Returning Members: 2
+Annamarie
+Kane
+Samuele
+Trip
+Fortune
+Avg Building Exp: 8.8, Avg Stamina: 8.4, Returning Members: 4
+Bartholomeo
+Row
+Gaven
+Veronique
+Heddi
+Avg Building Exp: 9.8, Avg Stamina: 8.8, Returning Members: 2
+Sybilla
+Robbyn
+Samson
+Haskell
+Florian
+Avg Building Exp: 8.4, Avg Stamina: 9.4, Returning Members: 2
+Giorgi
+Dulcia
+Esta
+Doralynne
+Buck
+Avg Building Exp: 9.4, Avg Stamina: 8.2, Returning Members: 1
+Lena
+Avraham
+Porter
+Adel
+Thedrick
+Avg Building Exp: 9.4, Avg Stamina: 8, Returning Members: 4
+Angy
+Maribel
+Konstantin
+Krysta
+Emmye
+Avg Building Exp: 8.4, Avg Stamina: 8.8, Returning Members: 0
+Madalyn
+Missie
+Cristine
+Kynthia
+Reinhold
+Avg Building Exp: 9.2, Avg Stamina: 8, Returning Members: 2
+Eleonore
+Cindee
+Rickie
+Lorenza
+Jean-Pierre
+Avg Building Exp: 9.2, Avg Stamina: 8.8, Returning Members: 2
+Kamilah
+Maisey
+Starr
+Tomasina
+Mildrid
+Avg Building Exp: 9.4, Avg Stamina: 8.2, Returning Members: 2
+Dorise
+Sergio
+Hermina
+Pepito
+Krystalle
+Avg Building Exp: 9.2, Avg Stamina: 7.6, Returning Members: 4
+Jade
+Anette
+Averell
+Clayborn
+Valeda
+Avg Building Exp: 8.6, Avg Stamina: 8.2, Returning Members: 4
+Abbie
+Dyanne
+Rea
+Katusha
+Nixie
+Avg Building Exp: 9.4, Avg Stamina: 8, Returning Members: 2
+Quent
+Cristie
+Gaby
+Evvy
+Shay
+Avg Building Exp: 9.2, Avg Stamina: 7.8, Returning Members: 1
+Kristel
+Gwenn
+Herculie
+Dasie
+Shanna
+Avg Building Exp: 9, Avg Stamina: 9.2, Returning Members: 4
+Rachael
+Kip
+Hollie
+Kamila
+Kin
+Avg Building Exp: 9, Avg Stamina: 8.8, Returning Members: 2
+Tracy
+Minetta
+Dorolice
+Vernon
+Foster
+Avg Building Exp: 9, Avg Stamina: 8.2, Returning Members: 3
+Mugsy
+Aurilia
+Olva
+Brigitte
+Odette
+Avg Building Exp: 9.2, Avg Stamina: 8.4, Returning Members: 1
+Alisa
+Ranique
+Pavla
+Lincoln
+Fan
+Avg Building Exp: 9, Avg Stamina: 8.6, Returning Members: 3
+Leonie
+Dawn
+Hercule
+Elsey
+Abe
+Avg Building Exp: 9.2, Avg Stamina: 7.6, Returning Members: 2
+Collete
+Iseabal
+Minny
+Ketty
+Carlye
+Avg Building Exp: 8.8, Avg Stamina: 8, Returning Members: 3
+Adorne
+Jacquenetta
+Josie
+Carree
+Terrence
+Avg Building Exp: 9, Avg Stamina: 8.6, Returning Members: 3
+Ronny
+Rabi
+Rice
+Dawna
+Blinni
+Avg Building Exp: 9, Avg Stamina: 8.2, Returning Members: 3
+Mindy
+Woodman
+Stearn
+Edin
+Noble
+Avg Building Exp: 9, Avg Stamina: 8.4, Returning Members: 3
+Alley
+Annalena
+Myrtle
+Bernadine
+Rand
+Avg Building Exp: 3.2, Avg Stamina: 4.6, Returning Members: 0
+Prudi
+Henrie
+Codee
+Dorisa
+Shawn
+Avg Building Exp: 4.6, Avg Stamina: 4, Returning Members: 3
+Ilysa
+Fanechka
+Maryrose
+Rosalie
+Wendi
+Avg Building Exp: 4.8, Avg Stamina: 6.6, Returning Members: 2
+Josselyn
+Desiree
+Theodore
+Gwenette
+Hewet
+Avg Building Exp: 4, Avg Stamina: 2.2, Returning Members: 3
+Michaella
+Roselia
+Saree
+Ivan
+Charleen
+Avg Building Exp: 4.6, Avg Stamina: 6.4, Returning Members: 3
+Barbara
+Winonah
+Margie
+Hartwell
+Debbra
+Avg Building Exp: 4, Avg Stamina: 6, Returning Members: 3
+Anabella
+Luella
+Adlai
+Krista
+Shalna
+Avg Building Exp: 6.8, Avg Stamina: 4.8, Returning Members: 4
+Ilona
+Sheba
+Selene
+Linnell
+Marglerite
+Avg Building Exp: 4.6, Avg Stamina: 6, Returning Members: 3
+Roch
+Rustin
+Reagan
+Kassandra
+Rani

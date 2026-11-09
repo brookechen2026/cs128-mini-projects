@@ -1,0 +1,35 @@
+Avg Building Exp: 5, Avg Stamina: 6, Returning Members: 3
+Kelwin
+Pascale
+Jerrilee
+Kathryn
+Leroy
+
+Avg Building Exp: 5.2, Avg Stamina: 7.2, Returning Members: 3
+Sharla
+Clifford
+Paulette
+Michail
+Audrie
+
+Avg Building Exp: 5, Avg Stamina: 7, Returning Members: 1
+Goldie
+Jaquelyn
+Jarvis
+Spud
+Barthel
+
+Avg Building Exp: 5.4, Avg Stamina: 6.2, Returning Members: 2
+Marga
+Lana
+Garret
+Moishe
+Michal
+
+Avg Building Exp: 5.8, Avg Stamina: 6.2, Returning Members: 3
+Olympe
+Graehme
+Arlie
+Marge
+Wallis
+

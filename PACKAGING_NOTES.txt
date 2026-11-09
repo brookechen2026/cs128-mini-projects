@@ -1,0 +1,9 @@
+Original folders unchanged. Generated output and duplicate versions excluded.
+Unavailable files:
+mp-3-mountain-paths-BrookeChen857/example-data/ex_input_data/map-input-w844-h480.dat
+mp-3-mountain-paths-BrookeChen857/example-data/ex_input_data/map-input-w480-h480.dat
+mp-3-mountain-paths-BrookeChen857/example-data/ex_output_paths/path-input-480-480.ppm
+mp-3-mountain-paths-BrookeChen857/example-data/ex_output_grayscale/map-input-480-480.ppm
+mp-5-naive-db-BrookeChen857/diagrams/ex2b.png
+mp-5-naive-db-BrookeChen857/diagrams/ex2c.png
+mp-7-illini-book-BrookeChen857/example/relations.csv
